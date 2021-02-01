@@ -1,0 +1,12 @@
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\bin\Debug\netcoreapp3.1\Esmeraldaplus.Core.deps.json
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\bin\Debug\netcoreapp3.1\Esmeraldaplus.Core.runtimeconfig.json
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\bin\Debug\netcoreapp3.1\Esmeraldaplus.Core.runtimeconfig.dev.json
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\bin\Debug\netcoreapp3.1\Esmeraldaplus.Core.dll
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\bin\Debug\netcoreapp3.1\Esmeraldaplus.Core.pdb
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\obj\Debug\netcoreapp3.1\Esmeraldaplus.Core.csprojAssemblyReference.cache
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\obj\Debug\netcoreapp3.1\Esmeraldaplus.Core.AssemblyInfoInputs.cache
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\obj\Debug\netcoreapp3.1\Esmeraldaplus.Core.AssemblyInfo.cs
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\obj\Debug\netcoreapp3.1\Esmeraldaplus.Core.csproj.CoreCompileInputs.cache
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\obj\Debug\netcoreapp3.1\Esmeraldaplus.Core.dll
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\obj\Debug\netcoreapp3.1\Esmeraldaplus.Core.pdb
+C:\Users\Juan José\OneDrive\Escritorio\Esmeraldaplus1-master\src\Esmeraldaplus.Core\obj\Debug\netcoreapp3.1\Esmeraldaplus.Core.genruntimeconfig.cache
